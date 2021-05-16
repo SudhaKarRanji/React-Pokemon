@@ -1,0 +1,16 @@
+.App{
+  text-align: center;
+}
+
+h1{
+  font-family:'Gugi',cursive;
+  font-size: 3rem;
+}
+
+h4{
+  font-family: 'Gugi',cursive;
+  cursor: pointer;
+  border: 1px solid black;
+  width: 79px;
+  float:left;
+}
