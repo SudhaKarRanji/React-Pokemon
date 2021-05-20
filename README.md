@@ -1,4 +1,4 @@
- live website: http://shorturl.at/cgwCE
+ live website: https://pokemon-react-08.netlify.app/
 
 # Getting Started with Create React App
 
