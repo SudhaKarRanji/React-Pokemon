@@ -1,4 +1,6 @@
  live website: https://pokemon-react-08.netlify.app/
+ 
+ More stuff coming soon...
 
 # Getting Started with Create React App
 
